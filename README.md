@@ -1,6 +1,8 @@
 # TAILOR Project
 
-![Insalogo](./images/logo-insa_0.png)
+| ![Insalogo](./images/logo-insa_0.png)| ![TailorLogo](./images/logo.png)|
+| ------------- | ------------- |
+
 
 Project [SMART(PLD)](riccardotommasini.com/teaching/smart) is provided by [INSA Lyon](https://www.insa-lyon.fr/).
 
