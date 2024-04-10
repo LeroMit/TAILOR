@@ -1,3 +1,3 @@
 [submodule "auth"]
-	path = auth
+	path = TailorAuth
 	url = https://github.com/evannglt/TailorAuth.git
