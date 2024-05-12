@@ -22,20 +22,20 @@ As its name suggests, the key feature is the tailoring of feeds. So, on an inter
 ## Project Goal
 - **Page feed**: This page is the heart of our application. Our aim will be to provide a fluid platform for switching from one video to another without being too memory-intensive. We'll also have to find the best way of storing the videos. For each video, the user must be able to like and/or comment on it.
 
-- **Page toolbox**: This page is essential, as it represents what sets us apart from other social networks, i.e. personalization options. It will therefore contain processing blocks that can be linked with arrows for serial filtering. The user will therefore have several options to choose from.
-
-- **Training an image and sound recognition model**: This functionality is crucial, as it will enable us to categorize videos, which in turn will give us the opportunity to filter them according to their content via the toolbox page, and thus offer the user exactly what he or she is looking for. (classification)
+- **Each user must be able to visualize and customize his or her own recommendation algorithm**: Users must be able to scroll through the app and see videos recommended by our algorithm, but they must also be able to see how they have been profiled and modify this profiling as they wish.
 
 ## Requirements
 - **Front** : React native for the app
-- **Back** : 	
-    - Computer Vision Python → YOLOv8 
-	- Back authentification Java → Oauth
-	- Vidéo stream + Toolbox + other → Java
-- **Database** : not sure yet – surely MongoDB?
+- **Back** : Java Spring Boot
+- **Database** : MongoDB & postgre
 
 
-## Material
+## RUN
+To run the project, run each sub-project: 
+- Tailor Auth -> see README
+- Tailor Back -> see README
+- Tailor Profiling -> see README
+- Tailor Front -> see README
 
 
 
