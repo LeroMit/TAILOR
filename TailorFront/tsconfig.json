@@ -1,0 +1,11 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  },
+  "include": ["**/src/**/*.ts", "**/src/**/*.tsx"],
+  "exclude": ["node_modules", "babel.config.js", "prettier.config.js"]
+}

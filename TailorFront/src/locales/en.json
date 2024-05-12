@@ -1,0 +1,165 @@
+{
+  "homeTab": { "title": "Home" },
+  "discoverTab": { "title": "Discover" },
+  "inboxTab": { "title": "Inbox" },
+  "meTab": { "title": "Me" },
+  "collectionTab": { "title": "Collection" },
+  "communityTab": { "title": "Community" },
+  "moreTab": { "title": "More" },
+  "createBlockSettingsModal": {
+    "tag": "Tag",
+    "time": "Time",
+    "location": "Location",
+    "settingsPlaceHolder": "Tag...",
+    "commentLengthError": "Too many characters, max 30",
+    "chooseTag": "Choose Tag",
+    "choosePercentage": "Choose Percentage",
+    "validate": "Validate",
+    "blocks": "Blocks",
+    "settings": "Settings"
+  },
+  "headerModal": {
+    "titleComment": {
+      "zero": "0 comments",
+      "one": "1 comment",
+      "other": "%{count} comments"
+    },
+    "titleShare": "Share"
+  },
+  "buttonModal": { "title": "Send" },
+  "placeHolderComment": { "hint": "Add comment..." },
+  "shareBoxAction": { "title": "Share" },
+  "commentComponent": {
+    "replies": {
+      "view": {
+        "one": "View reply",
+        "other": "View replies (%{count})"
+      },
+      "hide": {
+        "one": "Hide reply",
+        "other": "Hide all replies"
+      },
+      "reply": "Reply"
+    }
+  },
+  "inbox": {
+    "title": "Inbox",
+    "searchPlaceholder": "Search",
+    "tabs": {
+      "messages": "Messages",
+      "archive": "Archive",
+      "masked": "Masked"
+    },
+    "discussion": {
+      "justNow": "Just now",
+      "minutesAgo": {
+        "one": "1 minute ago",
+        "other": "%{count} minutes ago"
+      },
+      "hoursAgo": {
+        "one": "1 hour ago",
+        "other": "%{count} hours ago"
+      },
+      "daysAgo": {
+        "one": "1 day ago",
+        "other": "%{count} days ago"
+      },
+      "weeksAgo": {
+        "one": "1 week ago",
+        "other": "%{count} weeks ago"
+      },
+      "refresh": "Refreshing..."
+    },
+    "chat": {
+      "textPlaceHolder": "Type a message...",
+      "createConv": "Let's start a frienship",
+      "receivers": { "me": "Me" }
+    },
+    "modal": {
+      "title": "Create a conversation",
+      "searchPlaceholder": "Search",
+      "button": "Create"
+    }
+  },
+  "collection": {
+    "title": "My Tailors",
+    "empty": "No Tailors yet 🥲",
+    "add": "Create one!"
+  },
+  "community": {
+    "title": "Community",
+    "searchPlaceholder": "Search",
+    "creator": "By @",
+    "recentSearches": "Recent Searches",
+    "cancelButton": "Cancel"
+  },
+  "more": {
+    "title": "More",
+    "components": {
+      "learnTailor": "Learn to Tailor",
+      "about": "About the Algorithm",
+      "more": "More info"
+    }
+  },
+  "me": {
+    "title": "Me"
+  },
+  "discover": {
+    "search": {
+      "placeholder": "Search",
+      "cancelButton": "Cancel",
+      "recentSearches": "Recent Searches"
+    }
+  },
+  "searchBar": {
+    "placeholder": "Search",
+    "cancelButton": "Cancel",
+    "recentSearches": "Recent Searches"
+  },
+  "tailorModal": {
+    "subtitle": {
+      "edit": "Edit",
+      "creator": "Creator"
+    },
+    "copy": {
+      "message": "Do you want to copy this Tailor?"
+    },
+
+    "added": {
+      "message": "Tailor added to your collection!"
+    },
+    "removeTailor": {
+      "message": "Too many Tailors in your collection. Remove one to add another."
+    },
+    "removedTailor": {
+      "message": "Tailor removed!"
+    }
+  },
+  "login": {
+    "title": "Authentication",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "login": "Sign in",
+    "google": "Sign in with Google",
+    "noAccount": "Don't have an account yet? Register!",
+    "signUp": "Sign up"
+  },
+  "signup": {
+    "title": "Register",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "username": "@Username",
+    "dateOfBirth": "Date of birth",
+    "signup": "Sign up",
+    "google": "Sign up with Google",
+    "alreadyAccount": "Already have an account? Sign in!",
+    "invalidEmail": "Invalid email",
+    "invalidPasswordMatch": "Passwords do not match.",
+    "missingFields": "Please fill in all fields.",
+    "tagSelection": "Select 5 tags."
+  }
+}

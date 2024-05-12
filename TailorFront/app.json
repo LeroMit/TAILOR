@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "tailor",
+    "slug": "tailor",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/logo_white.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./src/assets/splash2.gif",
+      "resizeMode": "contain",
+      "backgroundColor": "#0d1d25"
+    },
+    "scheme": "tailor",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./src/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.trighap52.tailor"
+    },
+    "web": {
+      "favicon": "./src/assets/favicon.png"
+    },
+    "plugins": ["expo-router", "expo-secure-store", "expo-font"],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "a461e524-b79a-4d0f-a85f-a7797581956c"
+      }
+    }
+  }
+}

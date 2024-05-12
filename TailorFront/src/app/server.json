@@ -1,0 +1,408 @@
+{
+  "feed": [
+    {
+      "id": 0,
+      "username": "matheuscastroweb",
+      "tags": [
+        "testvideo",
+        "reactnative",
+        "tiktok",
+        "git",
+        "development",
+        "github",
+        "clone",
+        "react"
+      ],
+      "music": "Introducing Chromecast. The easiest way to enjoy",
+      "likes": 9444,
+      "yay": 0,
+      "nay": 0,
+      "comments": [
+        {
+          "id": 0,
+          "username": "user123",
+          "avatar": "http://example.com/avatar123.jpg",
+          "posted_ago": "2h",
+          "text": "Awesome video! I love React Native.",
+          "likes": 45,
+          "replies": [
+            {
+              "id": 4,
+              "username": "replyuser1",
+              "avatar": "http://example.com/avatar_reply1.jpg",
+              "posted_ago": "1h",
+              "text": "Yeah, React Native is amazing!",
+              "likes": 15,
+              "replies": []
+            },
+            {
+              "id": 5,
+              "username": "replyuser2",
+              "avatar": "http://example.com/avatar_reply2.jpg",
+              "posted_ago": "30min",
+              "text": "Great job! Keep it up.",
+              "likes": 8,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "username": "dev_guru",
+          "avatar": "http://example.com/avatar_dev_guru.jpg",
+          "posted_ago": "5h",
+          "text": "Interesting tech stack. Git and React go hand in hand!",
+          "likes": 32,
+          "replies": []
+        },
+        {
+          "id": 2,
+          "username": "pas_d_inspi",
+          "avatar": "http://example.com/avatar_dev_guru.jpg",
+          "posted_ago": "1w",
+          "text": "I don't know what to say, love you coeur @dev_guru coucou",
+          "likes": 129,
+          "replies": [
+            {
+              "id": 6,
+              "username": "replyuser69",
+              "avatar": "http://example.com/avatar_reply1.jpg",
+              "posted_ago": "3 days",
+              "text": "je sais tjrs pas quoi dire",
+              "likes": 69,
+              "replies": []
+            },
+            {
+              "id": 7,
+              "username": "replyuserjspcombien",
+              "avatar": "http://example.com/avatar_reply2.jpg",
+              "posted_ago": "30min",
+              "text": "j'aime pas les majuscules",
+              "likes": 2,
+              "replies": []
+            },
+            {
+              "id": 8,
+              "username": "helloyoungboy",
+              "avatar": "http://example.com/avatar_reply2.jpg",
+              "posted_ago": "10min",
+              "text": "coucou les loulous",
+              "likes": 42,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "username": "timMorelLeSang",
+          "avatar": "http://example.com/avatar_dev_guru.jpg",
+          "posted_ago": "3w",
+          "text": "j'aime les bananes",
+          "likes": 1,
+          "replies": [
+            {
+              "id": 9,
+              "username": "jecopie",
+              "avatar": "http://example.com/avatar_reply2.jpg",
+              "posted_ago": "2w",
+              "text": "je copie pcq j'ai pas d'inspi",
+              "likes": 12,
+              "replies": [
+                {
+                  "id": 36,
+                  "username": "testreplyaunereply",
+                  "avatar": "http://example.com/avatar_reply2.jpg",
+                  "posted_ago": "30sec",
+                  "text": "@jecopie ca va pas marcher je le sens",
+                  "likes": 0,
+                  "replies": []
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "username": "jecopieaussi",
+              "avatar": "http://example.com/avatar_reply2.jpg",
+              "posted_ago": "1w",
+              "text": "je copie aussi pcq j'ai toujours pas d'inspi et qu'il me faut bcppppp de texte pour faire du overflow",
+              "likes": 12,
+              "replies": []
+            }
+          ]
+        }
+      ],
+      "uri": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+    },
+    {
+      "id": 1,
+      "username": "matheuscastroweb",
+      "tags": [
+        "testvideo",
+        "reactnative",
+        "tiktok",
+        "git",
+        "development",
+        "github",
+        "clone",
+        "react"
+      ],
+      "music": "HBO GO now works with Chromecast",
+      "likes": 8411,
+      "comments": [
+        {
+          "id": 0,
+          "username": "reactlover",
+          "avatar": "http://example.com/avatar_reactlover.jpg",
+          "posted_ago": "1 day",
+          "text": "Chromecast is a game-changer for streaming!",
+          "likes": 98,
+          "replies": [
+            {
+              "id": 2,
+              "username": "chromecastfan",
+              "avatar": "http://example.com/avatar_chromecastfan.jpg",
+              "posted_ago": "20h",
+              "text": "Totally agree. HBO GO with Chromecast is awesome.",
+              "likes": 22,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "username": "tech_enthusiast",
+          "avatar": "http://example.com/avatar_tech_enthusiast.jpg",
+          "posted_ago": "2 days",
+          "text": "Can't wait to try out these technologies!",
+          "likes": 15,
+          "replies": []
+        }
+      ],
+      "uri": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+    },
+    {
+      "id": 2,
+      "username": "excavatordestroyer",
+      "tags": [
+        "excavator",
+        "peakyblinders",
+        "bo",
+        "tommy",
+        "boom",
+        "lourd",
+        "english",
+        "england"
+      ],
+      "music": "Excavator Fun Sound Boom Boom",
+      "likes": 69,
+      "comments": [
+        {
+          "id": 0,
+          "username": "peakylover",
+          "avatar": "http://example.com/avatar_peakylover.jpg",
+          "posted_ago": "1w",
+          "text": "Peaky c'est trop bien !",
+          "likes": 3,
+          "replies": [
+            {
+              "id": 2,
+              "username": "peakyfan",
+              "avatar": "http://example.com/avatar_peakyfan.jpg",
+              "posted_ago": "6d",
+              "text": "grave, j'adore",
+              "likes": 2,
+              "replies": []
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "username": "peakyfan1839",
+          "avatar": "http://example.com/avatar_peakyfan1839.jpg",
+          "posted_ago": "1w",
+          "text": "j'adore les anglais",
+          "likes": 2,
+          "replies": [
+            {
+              "id": 2,
+              "username": "jaimepeaky",
+              "avatar": "http://example.com/avatar_jaimepeaky.jpg",
+              "posted_ago": "6d",
+              "text": "moi aussi",
+              "likes": 1,
+              "replies": []
+            }
+          ]
+        }
+      ],
+      "uri": "https://static.vecteezy.com/system/resources/previews/029/896/156/mp4/an-excavator-destroys-the-building-with-its-bucket-video.mp4"
+    },
+    {
+      "id": 3,
+      "username": "peakyblindersvie",
+      "tags": [
+        "peaky",
+        "peakyblinders",
+        "bo",
+        "tommy",
+        "jaimethomasshelby",
+        "lourd",
+        "english",
+        "england"
+      ],
+      "music": "Peaky Blinders Soundtrack",
+      "likes": 102,
+      "comments": [],
+      "uri": "https://media.gettyimages.com/id/868717694/fr/vid%C3%A9o/cillian-murphy-at-peaky-blinders-birmingham-premiere-at-cineworld-on-october-30-2017-in.mp4?s=mp4-640x640-gi&k=20&c=HkLxM-tO-qCSU7qxzkMRg-TU89dfVZJCqv4Azhq_MA0="
+    },
+    {
+      "id": 4,
+      "username": "sunflowersunshine",
+      "tags": [
+        "flower",
+        "nature",
+        "sunshine",
+        "goldenhour",
+        "wow",
+        "sunset",
+        "yellow",
+        "field"
+      ],
+      "music": "Relaxing Nature Sound",
+      "likes": 42,
+      "comments": [],
+      "uri": "https://www.shutterstock.com/shutterstock/videos/1078354736/preview/stock-footage-drone-video-of-sunflower-field-in-a-beautiful-evening-sunset-k-aerial-view-of-sunflowers-in.mp4"
+    },
+    {
+      "id": 5,
+      "username": "waterfalllover",
+      "tags": [
+        "waterfall",
+        "nature",
+        "river",
+        "forest",
+        "sun",
+        "morning",
+        "magical"
+      ],
+      "music": "Relaxing Nature Sound 2",
+      "likes": 12,
+      "comments": [],
+      "uri": "https://www.shutterstock.com/shutterstock/videos/1065170830/preview/stock-footage-nature-river-waterfall-forest-sun-morning-magical.mp4"
+    },
+    {
+      "id": 6,
+      "username": "naturelover",
+      "tags": [
+        "stream",
+        "water",
+        "stone",
+        "nature",
+        "river",
+        "flow",
+        "slowmotion",
+        "blue",
+        "relaxing"
+      ],
+      "music": "Glouglou",
+      "likes": 121,
+      "comments": [],
+      "uri": "https://www.shutterstock.com/shutterstock/videos/1088404309/preview/stock-footage-clear-stream-running-through-stone-boulders-abundant-river-flowing-on-stone-bottom-in-slow-motion.mp4"
+    },
+    {
+      "id": 7,
+      "username": "bestTrips",
+      "tags": [
+        "green",
+        "island",
+        "adventure",
+        "outdoors",
+        "travel",
+        "hawaii",
+        "beach",
+        "nature",
+        "relaxing"
+      ],
+      "music": "Wavyyy",
+      "likes": 652,
+      "comments": [],
+      "uri": "https://www.shutterstock.com/shutterstock/videos/1057700125/preview/stock-footage-dream-trip-to-green-island-outdoor-adventure-travel-to-beautiful-hawaii-beach-cinematic-wild.mp4"
+    },
+    {
+      "id": 8,
+      "username": "mountain_incredible",
+      "tags": [
+        "himalayas",
+        "white",
+        "everest",
+        "mountain",
+        "travel",
+        "winter",
+        "snow",
+        "landscape",
+        "cold",
+        "clouds"
+      ],
+      "music": "Cinematic Mountain Music",
+      "likes": 863,
+      "comments": [],
+      "uri": "https://www.shutterstock.com/shutterstock/videos/1064110957/preview/stock-footage-the-himalayas-everest-beautiful-mountain-range-winter-inspiring-landscape-snow-cold-sea-of-clouds.mp4"
+    },
+    {
+      "id": 9,
+      "username": "plant_green_hand",
+      "tags": [
+        "growing",
+        "plant",
+        "green",
+        "nature",
+        "timelapse",
+        "sprouts",
+        "germination"
+      ],
+      "music": "J'ai la main verte",
+      "likes": 863,
+      "comments": [],
+      "uri": "https://www.shutterstock.com/shutterstock/videos/1058325193/preview/stock-footage-growing-plants-in-timelapse-sprouts-germination-newborn-plant.mp4"
+    }
+  ],
+  "collection": [
+    {
+      "id": -1,
+      "name": "",
+      "tags": [],
+      "isFavorite": false
+    },
+    {
+      "id": 0,
+      "name": "Nature",
+      "tags": ["tag1", "tag2", "tag3", "tsnnjsddjnsjag1", "tag2", "tag3"],
+      "isFavorite": false
+    },
+    {
+      "id": 1,
+      "name": "DJ",
+      "tags": ["tag4", "tag5", "tag6"],
+      "isFavorite": false
+    },
+    {
+      "id": 2,
+      "name": "Gym",
+      "tags": ["tag7", "tag8", "tag9"],
+      "isFavorite": true
+    },
+    {
+      "id": 3,
+      "name": "Bzez",
+      "tags": ["tag10", "tag11", "tag12"],
+      "isFavorite": false
+    },
+    {
+      "id": 4,
+      "name": "test",
+      "tags": ["tag10", "tag11", "tag12"],
+      "isFavorite": false
+    },
+    { "id": -2, "name": "", "tags": [], "isFavorite": false }
+  ]
+}
